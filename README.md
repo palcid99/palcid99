@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @palcid99
+- 👋 Hi, I’m @panji ramadan saputra 
+-   I'm a college student in University of Riau majoring computer science
 - 👀 I’m interested in ...Back end
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... java
 - 📫 How to reach me ...saputrapanji38@gmail.com
 
 <!---
